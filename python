@@ -1,9 +1,14 @@
-import time
-for i in range(10):
-    print(i)
-    time.sleep(0.1)
-    a = input
-    print(a)
+import random
+
+a = input()
+
+ans =[
+    
+'yes ✅', 
+'no  ❌', 
+    
+] 
+
+print(random.choice(ans))
 
 
-# count seitch game 
