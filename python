@@ -11,4 +11,4 @@ ans =[
 
 print(random.choice(ans))
 
-
+# game  yes no game 
