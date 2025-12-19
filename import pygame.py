@@ -40,4 +40,9 @@ while running:
     pygame.display.update()
 
 pygame.quit()
+
 sys.exit()
+
+
+
+#____________________pygame -------------
